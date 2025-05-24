@@ -1,5 +1,24 @@
 # XFT STABLECOINS
 
+
+### TYPES
+```
+Mutual Funds
+Exchange Traded Funds (ETFs)
+Separately Managed Accounts
+Collective Investment Trusts
+Closed-End Funds
+Interval Funds
+Tender Offer Funds
+529 Portfolios
+Money Market Funds
+Institutional Funds
+Variable Insurance Options
+Variable Insurance Sub-Accounts
+```
+
+
+
 **U.S. Equity**
 - XFTLV - Large Value
 - XFTLB - Large Blend  
