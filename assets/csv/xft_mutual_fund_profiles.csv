@@ -1,0 +1,125 @@
+﻿Ticker,Category,Group
+XFTLV,Large Value,U.S. Equity
+XFTLB,Large Blend,U.S. Equity
+XFTLG,Large Growth,U.S. Equity
+XFTMV,Mid-Cap Value,U.S. Equity
+XFTMB,Mid-Cap Blend,U.S. Equity
+XFTMG,Mid-Cap Growth,U.S. Equity
+XFTSV,Small Value,U.S. Equity
+XFTSB,Small Blend,U.S. Equity
+XFTSG,Small Growth,U.S. Equity
+XFTLN,Leveraged Net Long,U.S. Equity
+XFTCM,Communications,Sector Equity
+XFTCC,Consumer Cyclical,Sector Equity
+XFTCD,Consumer Defensive,Sector Equity
+XFTELP,Energy Limited Partnership,Sector Equity
+XFTEE,Equity Energy,Sector Equity
+XFTEPM,Equity Precious Metals,Sector Equity
+XFTFN,Financial,Sector Equity
+XFTGRE,Global Real Estate,Sector Equity
+XFTHLT,Health,Sector Equity
+XFTIND,Industrials,Sector Equity
+XFTINF,Infrastructure,Sector Equity
+XFTNR,Natural Resources,Sector Equity
+XFTRE,Real Estate,Sector Equity
+XFTTECH,Technology,Sector Equity
+XFTUTIL,Utilities,Sector Equity
+XFTMS,Miscellaneous Sector,Sector Equity
+XFTA15,Allocation—15% to 30% Equity,Allocation
+XFTA30,Allocation—30% to 50% Equity,Allocation
+XFTA50,Allocation—50% to 70% Equity,Allocation
+XFTA70,Allocation—70% to 85% Equity,Allocation
+XFTA85,Allocation—85%+ Equity,Allocation
+XFTCV,Convertibles,Allocation
+XFTWA,World Allocation,Allocation
+XFTTA,Tactical Allocation,Allocation
+XFT2000,Target-Date 2000-2010,Allocation
+XFT2015,Target-Date 2015,Allocation
+XFT2020,Target-Date 2020,Allocation
+XFT2025,Target-Date 2025,Allocation
+XFT2030,Target-Date 2030,Allocation
+XFT2035,Target-Date 2035,Allocation
+XFT2040,Target-Date 2040,Allocation
+XFT2045,Target-Date 2045,Allocation
+XFT2050,Target-Date 2050,Allocation
+XFT2055,Target-Date 2055,Allocation
+XFT2060,Target-Date 2060+,Allocation
+XFTRET,Target-Date Retirement,Allocation
+XFTFLV,Foreign Large Value,International Equity
+XFTFLB,Foreign Large Blend,International Equity
+XFTFLG,Foreign Large Growth,International Equity
+XFTFMV,Foreign Small/Mid-Value,International Equity
+XFTFMB,Foreign Small/Mid-Blend,International Equity
+XFTFMG,Foreign Small/Mid-Growth,International Equity
+XFTWLS,World Large Stock,International Equity
+XFTWMS,World Small/Mid Stock,International Equity
+XFTEM,Diversified Emerging Markets,International Equity
+XFTPA,Diversified Pacific/Asia,International Equity
+XFTMR,Miscellaneous Region,International Equity
+XFTEUR,Europe Stock,International Equity
+XFTLA,Latin America Stock,International Equity
+XFTPAX,Pacific/Asia ex-Japan Stock,International Equity
+XFTCHN,China Region,International Equity
+XFTINIE,India Equity,International Equity
+XFTJPN,Japan Stock,International Equity
+XFTBEAR,Bear Market,Alternative
+XFTMC,Multicurrency,Alternative
+XFTSC,Single Currency,Alternative
+XFTLSC,Long-Short Credit,Alternative
+XFTLSE,Long-Short Equity,Alternative
+XFTMN,Market Neutral,Alternative
+XFTMA,Multialternative,Alternative
+XFTMF,Managed Futures,Alternative
+XFTOPT,Options-based,Alternative
+XFTVOL,Volatility,Alternative
+XFTTLC,Trading—Leveraged Commodities,Alternative
+XFTTIC,Trading—Inverse Commodities,Alternative
+XFTTLD,Trading—Leveraged Debt,Alternative
+XFTTID,Trading—Inverse Debt,Alternative
+XFTTLE,Trading—Leveraged Equity,Alternative
+XFTTIE,Trading—Inverse Equity,Alternative
+XFTTM,Trading—Miscellaneous,Alternative
+XFTCBB,Commodities Broad Basket,Commodities
+XFTCF,Commodities Focused,Commodities
+XFTLGOV,Long Government,Taxable Bond
+XFTIGOV,Intermediate Government,Taxable Bond
+XFTSGOV,Short Government,Taxable Bond
+XFTIPB,Inflation-Protected Bond,Taxable Bond
+XFTLTB,Long-Term Bond,Taxable Bond
+XFTICB,Intermediate Core Bond,Taxable Bond
+XFTICPB,Intermediate Core-Plus Bond,Taxable Bond
+XFTSTB,Short-Term Bond,Taxable Bond
+XFTUSB,Ultrashort Bond,Taxable Bond
+XFTBL,Bank Loan,Taxable Bond
+XFTSTV,Stable Value,Taxable Bond
+XFTCB,Corporate Bond,Taxable Bond
+XFTPS,Preferred Stock,Taxable Bond
+XFTHYB,High-Yield Bond,Taxable Bond
+XFTMSB,Multisector Bond,Taxable Bond
+XFTWB,World Bond,Taxable Bond
+XFTWBH,World Bond-USD Hedged,Taxable Bond
+XFTTMAT,Target Maturity,Taxable Bond
+XFTEMB,Emerging-Markets Bond,Taxable Bond
+XFTEMLB,Emerging-Markets Local-Currency Bond,Taxable Bond
+XFTNB,Nontraditional Bond,Taxable Bond
+XFTMNL,Muni National Long,Municipal Bond
+XFTMNI,Muni National Intermediate,Municipal Bond
+XFTMNS,Muni National Short,Municipal Bond
+XFTHYM,High-Yield Muni,Municipal Bond
+XFTMSSL,Muni Single State Long,Municipal Bond
+XFTMSSI,Muni Single State Intermediate,Municipal Bond
+XFTMSSS,Muni Single State Short,Municipal Bond
+XFTMCAL,Muni California Long,Municipal Bond
+XFTMCAI,Muni California Intermediate,Municipal Bond
+XFTMMA,Muni Massachusetts,Municipal Bond
+XFTMMN,Muni Minnesota,Municipal Bond
+XFTMNJ,Muni New Jersey,Municipal Bond
+XFTMNYL,Muni New York Long,Municipal Bond
+XFTMNYI,Muni New York Intermediate,Municipal Bond
+XFTMOH,Muni Ohio,Municipal Bond
+XFTMPA,Muni Pennsylvania,Municipal Bond
+XFTMTM,Muni Target Maturity,Municipal Bond
+USDX,Money Market—Taxable,Money Market
+USDTF,Money Market—Tax-Free,Money Market
+USD40,Money Market—Non-40 Act,Money Market
+USDP,Prime Money Market,Money Market
