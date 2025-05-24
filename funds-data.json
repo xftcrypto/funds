@@ -1,0 +1,624 @@
+{
+  "funds": [
+    {
+      "ticker": "XFTLV",
+      "category": "Large Value",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTLB",
+      "category": "Large Blend",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTLG",
+      "category": "Large Growth",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTMV",
+      "category": "Mid-Cap Value",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTMB",
+      "category": "Mid-Cap Blend",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTMG",
+      "category": "Mid-Cap Growth",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTSV",
+      "category": "Small Value",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTSB",
+      "category": "Small Blend",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTSG",
+      "category": "Small Growth",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTLN",
+      "category": "Leveraged Net Long",
+      "group": "U.S. Equity"
+    },
+    {
+      "ticker": "XFTCM",
+      "category": "Communications",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTCC",
+      "category": "Consumer Cyclical",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTCD",
+      "category": "Consumer Defensive",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTELP",
+      "category": "Energy Limited Partnership",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTEE",
+      "category": "Equity Energy",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTEPM",
+      "category": "Equity Precious Metals",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTFN",
+      "category": "Financial",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTGRE",
+      "category": "Global Real Estate",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTHLT",
+      "category": "Health",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTIND",
+      "category": "Industrials",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTINF",
+      "category": "Infrastructure",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTNR",
+      "category": "Natural Resources",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTRE",
+      "category": "Real Estate",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTTECH",
+      "category": "Technology",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTUTIL",
+      "category": "Utilities",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTMS",
+      "category": "Miscellaneous Sector",
+      "group": "Sector Equity"
+    },
+    {
+      "ticker": "XFTA15",
+      "category": "Allocation—15% to 30% Equity",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFTA30",
+      "category": "Allocation—30% to 50% Equity",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFTA50",
+      "category": "Allocation—50% to 70% Equity",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFTA70",
+      "category": "Allocation—70% to 85% Equity",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFTA85",
+      "category": "Allocation—85%+ Equity",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFTCV",
+      "category": "Convertibles",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFTWA",
+      "category": "World Allocation",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFTTA",
+      "category": "Tactical Allocation",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2000",
+      "category": "Target-Date 2000‐2010",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2015",
+      "category": "Target-Date 2015",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2020",
+      "category": "Target-Date 2020",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2025",
+      "category": "Target-Date 2025",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2030",
+      "category": "Target-Date 2030",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2035",
+      "category": "Target-Date 2035",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2040",
+      "category": "Target-Date 2040",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2045",
+      "category": "Target-Date 2045",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2050",
+      "category": "Target-Date 2050",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2055",
+      "category": "Target-Date 2055",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFT2060",
+      "category": "Target-Date 2060+",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFTRET",
+      "category": "Target-Date Retirement",
+      "group": "Allocation"
+    },
+    {
+      "ticker": "XFTFLV",
+      "category": "Foreign Large Value",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTFLB",
+      "category": "Foreign Large Blend",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTFLG",
+      "category": "Foreign Large Growth",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTFMV",
+      "category": "Foreign Small/Mid-Value",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTFMB",
+      "category": "Foreign Small/Mid-Blend",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTFMG",
+      "category": "Foreign Small/Mid-Growth",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTWLS",
+      "category": "World Large Stock",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTWMS",
+      "category": "World Small/Mid Stock",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTEM",
+      "category": "Diversified Emerging Markets",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTPA",
+      "category": "Diversified Pacific/Asia",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTMR",
+      "category": "Miscellaneous Region",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTEUR",
+      "category": "Europe Stock",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTLA",
+      "category": "Latin America Stock",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTPAX",
+      "category": "Pacific/Asia ex-Japan Stock",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTCHN",
+      "category": "China Region",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTINIE",
+      "category": "India Equity",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTJPN",
+      "category": "Japan Stock",
+      "group": "International Equity"
+    },
+    {
+      "ticker": "XFTBEAR",
+      "category": "Bear Market",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTMC",
+      "category": "Multicurrency",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTSC",
+      "category": "Single Currency",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTLSC",
+      "category": "Long-Short Credit",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTLSE",
+      "category": "Long-Short Equity",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTMN",
+      "category": "Market Neutral",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTMA",
+      "category": "Multialternative",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTMF",
+      "category": "Managed Futures",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTOPT",
+      "category": "Options-based",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTVOL",
+      "category": "Volatility",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTTLC",
+      "category": "Trading—Leveraged Commodities",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTTIC",
+      "category": "Trading—Inverse Commodities",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTTLD",
+      "category": "Trading—Leveraged Debt",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTTID",
+      "category": "Trading—Inverse Debt",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTTLE",
+      "category": "Trading—Leveraged Equity",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTTIE",
+      "category": "Trading—Inverse Equity",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTTM",
+      "category": "Trading—Miscellaneous",
+      "group": "Alternative"
+    },
+    {
+      "ticker": "XFTCBB",
+      "category": "Commodities Broad Basket",
+      "group": "Commodities"
+    },
+    {
+      "ticker": "XFTCF",
+      "category": "Commodities Focused",
+      "group": "Commodities"
+    },
+    {
+      "ticker": "XFTLGOV",
+      "category": "Long Government",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTIGOV",
+      "category": "Intermediate Government",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTSGOV",
+      "category": "Short Government",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTIPB",
+      "category": "Inflation-Protected Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTLTB",
+      "category": "Long-Term Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTICB",
+      "category": "Intermediate Core Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTICPB",
+      "category": "Intermediate Core-Plus Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTSTB",
+      "category": "Short-Term Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTUSB",
+      "category": "Ultrashort Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTBL",
+      "category": "Bank Loan",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTSTV",
+      "category": "Stable Value",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTCB",
+      "category": "Corporate Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTPS",
+      "category": "Preferred Stock",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTHYB",
+      "category": "High-Yield Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTMSB",
+      "category": "Multisector Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTWB",
+      "category": "World Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTWBH",
+      "category": "World Bond-USD Hedged",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTTMAT",
+      "category": "Target Maturity",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTEMB",
+      "category": "Emerging-Markets Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTEMLB",
+      "category": "Emerging-Markets Local-Currency Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTNB",
+      "category": "Nontraditional Bond",
+      "group": "Taxable Bond"
+    },
+    {
+      "ticker": "XFTMNL",
+      "category": "Muni National Long",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMNI",
+      "category": "Muni National Intermediate",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMNS",
+      "category": "Muni National Short",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTHYM",
+      "category": "High-Yield Muni",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMSSL",
+      "category": "Muni Single State Long",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMSSI",
+      "category": "Muni Single State Intermediate",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMSSS",
+      "category": "Muni Single State Short",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMCAL",
+      "category": "Muni California Long",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMCAI",
+      "category": "Muni California Intermediate",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMMA",
+      "category": "Muni Massachusetts",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMMN",
+      "category": "Muni Minnesota",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMNJ",
+      "category": "Muni New Jersey",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMNYL",
+      "category": "Muni New York Long",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMNYI",
+      "category": "Muni New York Intermediate",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMOH",
+      "category": "Muni Ohio",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMPA",
+      "category": "Muni Pennsylvania",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "XFTMTM",
+      "category": "Muni Target Maturity",
+      "group": "Municipal Bond"
+    },
+    {
+      "ticker": "USDX",
+      "category": "Money Market—Taxable",
+      "group": "Money Market"
+    },
+    {
+      "ticker": "USDTF",
+      "category": "Money Market—Tax-Free",
+      "group": "Money Market"
+    },
+    {
+      "ticker": "USD40",
+      "category": "Money Market—Non-40 Act",
+      "group": "Money Market"
+    },
+    {
+      "ticker": "USDP",
+      "category": "Prime Money Market",
+      "group": "Money Market"
+    }
+  ]
+}
